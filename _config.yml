@@ -1,8 +1,21 @@
 title: Zirui Li
 description: hello
-theme: jekyll-theme-minimal
+# 使用 minimal mistakes 主题
+remote_theme: mmistakes/minimal-mistakes
+
+# 开启侧边栏
+minimal_mistakes_skin: default
 
 author:
   avatar: /assets/bio_photo/avatar.jpg
   email: lzrqna974@gmail.com
   bio: 行百里者半九十
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      sidebar:
+        nav: "sidebar"
