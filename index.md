@@ -3,18 +3,37 @@ layout: default
 title: 我的主页
 ---
 
-# 欢迎来到我的主页 👋
+# Welcome to my homepage 👋
 
-我是 XXX，目前在做 YYY...
+My name is Zirui Li, I am currently a second-year master's student at Beijing University of Post and Telecommunications. I am expected to receive my master's degree in 2026. My current research focuses primarily on Multi-Object Tracking (MOT), and my broader interests include 3D visual perception and multimodal perception.
 
+--
+## Publications
+- ### Look along trajectory: Multi-view Pedestrian Tracking with Mahalanobis Distance-Based Association
+  
+- ### Trajectory-Aware Attack: Explainable Adversarial Attack against Multiple Object Trackers
+
+- ### See Through Views: View-Aware feature learning for Multi-View Detection and Tracking
+  
 ---
+## Education
 
-## 联系方式
+- 2023.6-Present, M.S., School of Intelligent Engineering and Automation, Beijing University of Post and Telecommunications,
+- 2019.9-2023.6, Undergraduate, School of Intelligent Engineering and Automation, Beijing University of Post and Telecommunications,
+
+--
+
+## Internships
+- 2024.4-2024.10, Researcher Assistant at Sensetime, Beijing. 
+
+--
+
+## Contact Information
 
 <a href="https://github.com/lzr-qifei" target="_blank">
-  <img src="/assets/icons/github.svg" alt="GitHub" width="32" height="32">
+  <img src="/root/assets/icons/github.svg" alt="GitHub" width="32" height="32">
 </a>
 
 <a href="mailto:your-email@example.com">
-  <img src="/assets/icons/email.svg" alt="Email" width="32" height="32">
+  <img src="/root/assets/icons/email.svg" alt="Email" width="32" height="32">
 </a>
