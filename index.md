@@ -1,6 +1,7 @@
 ---
-layout: default
-title: 我的主页
+title: 主页
+permalink: /
+layout: single
 ---
 
 <p align="center">
