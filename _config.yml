@@ -3,5 +3,6 @@ description: hello
 theme: jekyll-theme-minimal
 
 author:
+  avatar: /assets/bio_photo/avatar.jpg
   email: lzrqna974@gmail.com
   bio: 行百里者半九十
