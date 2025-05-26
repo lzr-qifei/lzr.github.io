@@ -3,6 +3,13 @@ layout: default
 title: 我的主页
 ---
 
+<p align="center">
+  <img src="{{ site.author.avatar }}" alt="avatar" width="150" style="border-radius: 50%;">
+</p>
+
+<p align="center">{{ site.author.bio }}</p>
+---
+
 # Welcome to my homepage 👋
 
 My name is Zirui Li, I am currently a second-year master's student at Beijing University of Post and Telecommunications. I am expected to receive my master's degree in 2026. My current research focuses primarily on Multi-Object Tracking (MOT), and my broader interests include 3D visual perception and multimodal perception.
